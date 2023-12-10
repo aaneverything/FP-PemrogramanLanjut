@@ -1,0 +1,277 @@
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\UangKu.exe.config
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\UangKu.exe
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\UangKu.pdb
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Google.Protobuf.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\K4os.Hash.xxHash.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\MySql.Data.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\MySqlConnector.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Newtonsoft.Json.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\RestSharp.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Buffers.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.CodeDom.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Data.Odbc.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Data.OleDb.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Data.SqlClient.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Drawing.Common.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.IO.Packaging.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.IO.Pipelines.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.IO.Ports.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Memory.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Numerics.Vectors.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.Permissions.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Security.Principal.Windows.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Threading.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.csproj.AssemblyReference.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.csproj.SuggestedBindingRedirects.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.Properties.Resources.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.Login.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.csproj.GenerateResource.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.exe.licenses
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.csproj.CoreCompileInputs.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.csproj.Fody.CopyLocal.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.csproj.CopyComplete
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.exe
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.pdb
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.SIgnUp.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.Dashboard.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.Detail.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.UpdateData.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.InputData.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\UangKu\UangKu\obj\Debug\UangKu.View.Profile.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\UangKu.exe.config
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\UangKu.exe
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\UangKu.pdb
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Google.Protobuf.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\K4os.Hash.xxHash.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\LiveCharts.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\MySql.Data.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\MySqlConnector.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\RestSharp.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Buffers.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.CodeDom.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Data.Odbc.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Data.OleDb.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Data.SqlClient.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Diagnostics.EventLog.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Drawing.Common.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.IO.Packaging.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.IO.Pipelines.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.IO.Ports.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Memory.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.Permissions.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Security.Principal.Windows.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.ServiceModel.Syndication.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Threading.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.csproj.AssemblyReference.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.Properties.Resources.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.Dashboard.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.Detail.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.History.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.Profile.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.UpdateData.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.InputData.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.Login.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.View.SIgnUp.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.csproj.GenerateResource.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.exe.licenses
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.csproj.Fody.CopyLocal.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.csproj.CopyComplete
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.exe
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\qwertyuiopasdfghjkzxcvbnm\UangKu\UangKu\obj\Debug\UangKu.pdb
+D:\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.exe.config
+D:\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.exe
+D:\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.pdb
+D:\UangKuUP\UangKu\UangKu\bin\Debug\BouncyCastle.Cryptography.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Google.Protobuf.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\K4os.Hash.xxHash.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\LiveCharts.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\MySql.Data.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\MySqlConnector.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\Newtonsoft.Json.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\RestSharp.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Buffers.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.CodeDom.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Data.Odbc.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Data.OleDb.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Data.SqlClient.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Diagnostics.EventLog.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Drawing.Common.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.Packaging.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.Pipelines.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.Ports.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Memory.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Numerics.Vectors.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.AccessControl.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Permissions.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Principal.Windows.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.ServiceModel.Syndication.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Threading.AccessControl.xml
+D:\UangKuUP\UangKu\UangKu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.AssemblyReference.cache
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.SuggestedBindingRedirects.cache
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.Properties.Resources.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Dashboard.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Detail.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.History.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Profile.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.InputData.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Login.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.SIgnUp.resources
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.GenerateResource.cache
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.exe.licenses
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.CoreCompileInputs.cache
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.Fody.CopyLocal.cache
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.CopyComplete
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.exe
+D:\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.pdb
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.AssemblyReference.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.Properties.Resources.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Dashboard.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Detail.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.History.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Profile.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.InputData.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.SIgnUp.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.GenerateResource.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.View.Login.resources
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.exe.licenses
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.exe.config
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.exe
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.pdb
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Google.Protobuf.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\K4os.Hash.xxHash.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\LiveCharts.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\LiveCharts.WinForms.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\LiveCharts.Wpf.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\MySql.Data.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\MySqlConnector.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\RestSharp.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Buffers.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.CodeDom.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Data.Odbc.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Data.OleDb.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Data.SqlClient.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Diagnostics.EventLog.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Drawing.Common.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.Packaging.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.Pipelines.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.IO.Ports.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Memory.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Permissions.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Security.Principal.Windows.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.ServiceModel.Syndication.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Threading.AccessControl.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.Fody.CopyLocal.cache
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.csproj.CopyComplete
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.exe
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.pdb
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.exe.manifest
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\bin\Debug\UangKu.application
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.exe.manifest
+D:\SEMESTER 3\pemrograman lanjut\FINAL PROJECT\BENAR BENAR FINAL YA KALO NGGA YA UDAH LAH\UangKuUP\UangKu\UangKu\obj\Debug\UangKu.application
